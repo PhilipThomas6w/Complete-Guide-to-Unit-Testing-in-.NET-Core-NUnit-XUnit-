@@ -1,0 +1,12 @@
+F:\Repos\C# Learning Path\Complete Guide to Unit Testing in .NET Core - NUnit and XUnit\Section 2. First Unit Test\Sparky\Sparky\bin\Debug\net6.0\Sparky.deps.json
+F:\Repos\C# Learning Path\Complete Guide to Unit Testing in .NET Core - NUnit and XUnit\Section 2. First Unit Test\Sparky\Sparky\bin\Debug\net6.0\Sparky.dll
+F:\Repos\C# Learning Path\Complete Guide to Unit Testing in .NET Core - NUnit and XUnit\Section 2. First Unit Test\Sparky\Sparky\bin\Debug\net6.0\Sparky.pdb
+F:\Repos\C# Learning Path\Complete Guide to Unit Testing in .NET Core - NUnit and XUnit\Section 2. First Unit Test\Sparky\Sparky\obj\Debug\net6.0\Sparky.csproj.AssemblyReference.cache
+F:\Repos\C# Learning Path\Complete Guide to Unit Testing in .NET Core - NUnit and XUnit\Section 2. First Unit Test\Sparky\Sparky\obj\Debug\net6.0\Sparky.GeneratedMSBuildEditorConfig.editorconfig
+F:\Repos\C# Learning Path\Complete Guide to Unit Testing in .NET Core - NUnit and XUnit\Section 2. First Unit Test\Sparky\Sparky\obj\Debug\net6.0\Sparky.AssemblyInfoInputs.cache
+F:\Repos\C# Learning Path\Complete Guide to Unit Testing in .NET Core - NUnit and XUnit\Section 2. First Unit Test\Sparky\Sparky\obj\Debug\net6.0\Sparky.AssemblyInfo.cs
+F:\Repos\C# Learning Path\Complete Guide to Unit Testing in .NET Core - NUnit and XUnit\Section 2. First Unit Test\Sparky\Sparky\obj\Debug\net6.0\Sparky.csproj.CoreCompileInputs.cache
+F:\Repos\C# Learning Path\Complete Guide to Unit Testing in .NET Core - NUnit and XUnit\Section 2. First Unit Test\Sparky\Sparky\obj\Debug\net6.0\Sparky.dll
+F:\Repos\C# Learning Path\Complete Guide to Unit Testing in .NET Core - NUnit and XUnit\Section 2. First Unit Test\Sparky\Sparky\obj\Debug\net6.0\refint\Sparky.dll
+F:\Repos\C# Learning Path\Complete Guide to Unit Testing in .NET Core - NUnit and XUnit\Section 2. First Unit Test\Sparky\Sparky\obj\Debug\net6.0\Sparky.pdb
+F:\Repos\C# Learning Path\Complete Guide to Unit Testing in .NET Core - NUnit and XUnit\Section 2. First Unit Test\Sparky\Sparky\obj\Debug\net6.0\ref\Sparky.dll
